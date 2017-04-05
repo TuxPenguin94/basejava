@@ -8,6 +8,7 @@
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1">Object. Контракт equals/hashCode</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=3">Интерфейсы</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=4">Полиморфизм, abstract</a>
+- [Java Core. Вопросы к собеседованию](http://info.javarush.ru/translation/2014/02/12/Java-Core-Вопросы-к-собеседованию-ч-1.html)
 
 ## Сложность алгоритмов
 - <a href="https://tproger.ru/translations/algorithms-and-data-structures">Алгоритмы и структуры данных для начинающих: сложность алгоритмов</a>

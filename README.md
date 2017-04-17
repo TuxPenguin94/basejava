@@ -22,7 +22,8 @@
 ### Занятие 3
  - [Объектная модель в Java](lesson/lesson3.md#Объектная-модель-в-java)
  - [Сложность алгоритмов](lesson/lesson3.md#Сложность-алгоритмов)
-
+ - [Паттерн проектирования Шаблонный метод](https://github.com/JavaOPs/JavaSE-Web/blob/master/lesson/lesson3.md#Паттерн-проектирования-Шаблонный-метод)
+ 
 ### Занятие 4
  - [Работа со строками](lesson/lesson4.md#Работа-со-строками)
  - [Исключения](lesson/lesson4.md#Исключения)
@@ -85,4 +86,3 @@
  - [Деплой в Heroku](lesson/lesson17.md#Деплой-в-heroku)
  - [Classloader](lesson/lesson17.md#classloader)
  - [Обзор Java Enterprise](lesson/lesson17.md#Обзор-java-enterprise)
- 

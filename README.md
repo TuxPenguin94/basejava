@@ -1,9 +1,18 @@
-# Курс BaseJava ## (обновленный и переработанный)
-## Вступительное + 17 занятий
+# Курс BaseJava (обновленный и переработанный)
+
+## Разработка Web приложения "База данных резюме", деплоем в контейнер сервлетов [Tomcat](http://tomcat.apache.org/) и в облачный сервис [Heroku](https://www.heroku.com/) и сохранением в
+- памяти на основе массива, отсортированного массива, списка и ассоциированного массива (Map)
+- файловой системе (в том числе через [Java 7 NIO File API](http://www.quizful.net/post/java-nio-tutorial))
+  - с помощью стандартной и кастомной сериализации Java
+  -  в формате JSON  ([Google Gson](https://github.com/google/gson))
+  -  в формате XML ([JAXB](https://ru.wikipedia.org/wiki/Java_Architecture_for_XML_Binding))
+ - в реляционной базе ([PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL)) 
+ 
+## Вступительное занятие + 17 занятий с разработкой приложения 
 
 ## [Вступительное заниятие](lesson/intro.md)
 
-## Темы курса
+## Программа
 ### Занятие 1
  - [Разработка ПО](lesson/lesson1.md#Разработка-ПО)
  - [Обзор языка Java](lesson/lesson1.md#Обзор-языка-java)

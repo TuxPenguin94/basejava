@@ -4,7 +4,6 @@
 [![Видео вступительного занятия](https://img.youtube.com/vi/rUUhWUpzpUM/0.jpg)](https://www.youtube.com/watch?v=rUUhWUpzpUM)
 
 - <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/">Java Tools and Technologies Landscape Report 2016</a>
-- <a href="http://gkislin.ru/ru/cv.html">Резюме преподавателя Кислина Григория</a>
 
 ## Необходимое ПО
 -  <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">JDK8</a>

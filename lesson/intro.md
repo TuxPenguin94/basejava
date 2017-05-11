@@ -13,17 +13,6 @@
 
 > Выбирать Ultimate, 30 days trial (нам понадобится Git, JavaScript, Tomcat, JSP). Учебный ключ выдается на первом занятии.
 
-## Рекомендуемые книги
-- <a href="http://myflex.org/books/java4kids/java4kids.htm">YAKOV FAIN: Программирование на Java для начинающих</a>
-- <a href="https://habrahabr.ru/post/153373/">Книги по Java: от новичка до профессионала</a>
-- <a href="http://scanlibs.com/java-effektivnoe-programmirovanie-2-e-izdanie">Джошуа Блох: Java. Эффективное программирование, 2-е издание</a>
-- <a href="http://www.labirint.ru/books/87603/">Гамма, Хелм, Джонсон: Приемы объектно-ориентированного проектирования. Паттерны проектирования</a>
-- <a href="http://www.bookvoed.ru/book?id=639284">Редмонд Э.: Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL.</a>
-
-##  Ресуры в сети
-- <a href="http://www.intuit.ru/studies/courses/16/16/info">intuit: Программирование на Java</a>
-- <a href="http://sernam.ru/book_java.php">Основы программирования на Java: учебное пособие</a>
-
 ## Вступительное задание 
 - Установите ПО: Git, Java 8, IntelliJ IDEA
 - Создайте локальную копию нашего проекта: `git clone https://github.com/JavaWebinar/JavaSE-Web.git`

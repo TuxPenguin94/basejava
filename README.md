@@ -8,8 +8,6 @@
   -  в формате XML ([JAXB](https://ru.wikipedia.org/wiki/Java_Architecture_for_XML_Binding))
  - в реляционной базе ([PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL)) 
  
-## Вступительное занятие + 17 занятий с разработкой приложения 
-
 ## [Вступительное заниятие](lesson/intro.md)
 
 ## Программа
